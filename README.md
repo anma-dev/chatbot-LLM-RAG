@@ -2,7 +2,6 @@
 
 ## The Golden RAGtriever
 
-
 Welcome to Verba: The Golden RAGtriever, an open-source application designed to offer an end-to-end, streamlined, and user-friendly interface for Retrieval-Augmented Generation (RAG) out of the box. In just a few easy steps, explore your datasets and extract insights with ease, either locally with HuggingFace and Ollama or through LLM providers such as OpenAI, Cohere, and Google.
 
 ```
